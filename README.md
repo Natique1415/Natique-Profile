@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Natique1415
 - 👀 I’m interested in Coding
 - 🌱 I’m currently doing CS50p
-- 💞️ I’m looking to collaborate on any project
+- 💞️ Open for project proposal 
 - 📫 How to reach me ibrarnatique@gmail.com
 
 <!---
