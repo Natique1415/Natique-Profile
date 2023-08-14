@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Natique1415
-- 👀 I’m interested in Coding
-- 🌱 I’m currently doing CS50p
+- 🌱 I’m currently doing CS50P (finished it)
 - 💞️ Open for project proposal 
-- 📫 How to reach me ibrarnatique@gmail.com
-- 🤖 Learning Artificial Intelligence driver libraries
+- 📫 How to reach me *ibrarnatique@gmail.com*
+- 🤖 Learning Artificial Intelligence driven libraries
 - 📖 Looking forward to contributing to open source and flexing my badges!
 
 <!---
