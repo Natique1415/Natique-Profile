@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a app<br>I'm currently learning C<br>
+I'm currently working on an app,<br>I'm presently learning C,<br>
 
 
 # 💻 Tech Stack:
